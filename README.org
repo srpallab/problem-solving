@@ -1,16 +1,16 @@
 #+TITLE: Problem Solving
 
-* Basic [/]
-    - [ ] Timur 1000
-    - [ ] Timur 1264
-    - [ ] Timur 1293
-    - [ ] Timur 1409
-* Math [/]
-    - [ ] Timur 1068
+* Basic [4/4]
+    - [X] Timus 1000
+    - [X] Timus 1264
+    - [X] Timus 1293
+    - [X] Timus 1409
+* Math [1/1]
+    - [X] Timus 1068
 * Loop [/]
-    - [ ] Timur 1083
-    - [ ] Timur 1086
-    - [ ] Timur 1209
+    - [X] Timus 1083
+    - [ ] Timus 1086
+    - [ ] Timus 1209
     - [ ] Light OJ 1001
     - [ ] Light OJ 1008 (quadratic equation)
     - [ ] Light OJ 1010 (Look for pattern)
@@ -33,11 +33,11 @@
     - [ ] Light OJ 1433
     - [ ] UVA 100
 * Array and String [/]
-    - [ ] Timur 1001
-    - [ ] Timur 1014
-    - [ ] Timur 1020
-    - [ ] Timur 1025
-    - [ ] Timur 1044
+    - [ ] Timus 1001
+    - [ ] Timus 1014
+    - [ ] Timus 1020
+    - [ ] Timus 1025
+    - [ ] Timus 1044
     - [ ] Timur 1079
     - [ ] Timur 1197
     - [ ] Timur 1313
@@ -63,3 +63,5 @@
     - [ ] Timur 1149
     - [ ] Timur 1189
     
+* Linked List
+    - [ ]  
